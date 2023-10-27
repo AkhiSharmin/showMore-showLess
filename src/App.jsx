@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>ViteReact</h1>
+      <h1>ShowMore-ShowLess</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
